@@ -57,10 +57,4 @@ Copy/start - Начать взаимодействие
 Приветствуются любые предложения и pull-реквесты!
 Лицензия
 MIT License
-Контакты
-Александр Гаврин
 
-Telegram: @blinkkitchen
-Email: nuke.dust@yandex.ru
-
-Создано с ❤️ в МИФИ
